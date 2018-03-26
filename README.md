@@ -26,10 +26,12 @@ service iptables stop
 下面是后台部分截图和小城序部分截图
 
 后台
+
 ![登录界面](https://github.com/coolfxl/weticket/blob/master/pictures/01.png)
 ![首页](https://github.com/coolfxl/weticket/blob/master/pictures/02.png)
 ![门片添加](https://github.com/coolfxl/weticket/blob/master/pictures/03.jpg)
 
 小程序
+
 ![小程序首页](https://github.com/coolfxl/weticket/blob/master/pictures/04.jpg)
 ![小程序购票](https://github.com/coolfxl/weticket/blob/master/pictures/05.jpg)
