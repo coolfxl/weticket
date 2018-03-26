@@ -1,13 +1,25 @@
 # weticket
 微信购票小程序+后台管理系统
 
-项目部署在tomcat中正常启动的日志文件
+
+引入项目到eclipse中，部署在tomcat中正常启动的日志文件
 
 信息: Starting ProtocolHandler ["http-bio-8095"]
 
 [INFO][2018-03-26 15:37:38] com.hqc.util.RedisUtil.clear(RedisUtil.java:109) Clear Key 
 
 [INFO][2018-03-26 15:37:38] com.hqc.task.RedisTask.autoTask(RedisTask.java:37) 清空所有Redis缓存成功 
+
+访问路径
+
+#不带项目名
+http://localhost:8095/hqc_mp/octopus/sys/index.html
+
+#带项目名 
+http://localhost:8095/octopus/sys/index.html
+
+后台登录界面
+用户名/密码：admin/admin
 
 redis下载地址
 
