@@ -12,10 +12,10 @@
 
 访问路径
 
-#不带项目名
+#带项目名
 http://localhost:8095/hqc_mp/octopus/sys/index.html
 
-#带项目名 
+#不带项目名 
 http://localhost:8095/octopus/sys/index.html
 
 后台登录界面
